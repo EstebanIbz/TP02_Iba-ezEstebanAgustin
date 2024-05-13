@@ -1,7 +1,7 @@
 class Asteroide extends GameObject implements IDisplayable, IController, IMoveable{
 
 public Asteroide(){
-  super(0);
+  super();
 }
 
 public void display(){

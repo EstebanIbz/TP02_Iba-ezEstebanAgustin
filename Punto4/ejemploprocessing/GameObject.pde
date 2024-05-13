@@ -4,8 +4,7 @@ abstract class GameObject{
   protected PImage imagen;
   protected int velocidad;
   
-  public GameObject(int velocidad){
-    this.velocidad = velocidad
+  public GameObject(){  
   }
   
 }
